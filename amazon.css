@@ -4,11 +4,12 @@
     box-sizing: border-box;
     font-family: arial;
 }
+
 .navbar{
     height:70px;
     background-color: black;
-    padding-left:10px;
-    padding-right: 10px;
+     padding-left:10px;
+    padding-right: 10px; 
     display: flex;
     justify-content:center; 
 }
@@ -297,3 +298,114 @@ color:white;
 .se:hover{
     border:2px solid black;
 }
+.image{
+    height:300px;
+    background-image: url("back.jpg");
+    background-size: cover;
+    background-color: #a52a2a;
+    
+}
+  .product{
+    height:400px;
+    background-color: rgba(137, 43, 226, 0.715);
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+  }
+  .product1{
+    height:400px;
+    width:350px;
+    background-color:white;
+  }
+  .product2{
+    height:400px;
+    width:350px;
+    background-color: white;
+  }
+  .product3{
+    height:400px;
+    width:350px;
+    background-color:white;
+  }
+  .product4{
+    height:400px;
+    width:350px;
+    background-color:white;
+  }
+  .pro1{
+    height:350px;
+    width:300px;
+    background-color:white;
+    margin-top: 23px;
+    margin-left: 23px;
+    margin-bottom: 23px;
+    border-radius: 10px;
+  }
+  .image1{
+    height:300px;
+    width:300px;
+    background-color: white;
+    background-image: url(new.jpeg);
+    background-size: cover;
+    border-radius: 10px;
+   
+  }
+  .pro2{
+    height:350px;
+    width:300px;
+    background-color: white;
+    margin-top: 23px;
+    margin-left: 23px;
+    margin-bottom: 23px;
+    border-radius: 10px;
+  }
+  .image2{
+    height:300px;
+    width:300px;
+    background-color: white;
+    background-image: url(new.jpeg);
+    background-size: cover;
+    border-radius: 10px;
+  }
+  .pro3{
+    height:350px;
+    width:300px;
+    background-color: white;
+    margin-top: 23px;
+    margin-left: 23px;
+    margin-bottom: 23px;
+    border-radius: 10px;
+  }
+  .image3{
+    height:300px;
+    width:300px;
+    background-color: white;
+    background-image: url(new.jpeg);
+    background-size: cover;
+    border-radius: 10px;
+  }
+  .pro4{
+    height:350px;
+    width:300px;
+    background-color: white;
+    margin-top: 23px;
+    margin-left: 23px;
+    margin-bottom: 23px;
+    border-radius: 10px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .image4{
+    height:300px;
+    width:300px;
+    background-color: white;
+    background-image: url(new.jpeg);
+    background-size: cover;
+    border-radius: 10px;
+  }
+  .productnext{
+    height:400px;
+    background-color: black;
+  }
