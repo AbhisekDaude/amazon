@@ -239,6 +239,7 @@ color:white;
     color:white;
     font-size: 17px;
     border: 1px white transparent;
+    align-content: center;
 
 }
 .cums{
@@ -249,6 +250,7 @@ color:white;
     color:white;
     font-size: 17px;
     border: 1px white transparent;
+    align-content: center;
     
 }
 .re{
@@ -259,6 +261,7 @@ color:white;
     color:white;
     font-size: 17px;
     border: 1px white transparent;
+    align-content: center;
 
 }.gift{
    
@@ -269,6 +272,7 @@ color:white;
     color:white;
     font-size: 17px;
     border: 1px white transparent;
+    align-content: center;
 }
 .se{
     height:40px;
@@ -278,8 +282,14 @@ color:white;
     color:white;
     font-size: 17px;
     border: 1px white transparent;
-    
+    align-content: center;
 }
+    .hero{
+        text-decoration: none;
+        color:white;
+    }
+    
+
 .all:hover{
     border:2px solid black;
 }
@@ -349,6 +359,7 @@ color:white;
     background-image: url(new.jpeg);
     background-size: cover;
     border-radius: 10px;
+ 
    
   }
   .pro2{
@@ -404,6 +415,13 @@ color:white;
     background-image: url(new.jpeg);
     background-size: cover;
     border-radius: 10px;
+  }
+  .one{
+    color: blue;
+    font-size: 20px;
+  }
+  .one:hover{
+    font-size: large;
   }
   .productnext{
     height:400px;
