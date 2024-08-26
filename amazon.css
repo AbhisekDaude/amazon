@@ -912,25 +912,24 @@ color:white;
   }
   .box1{
     height:150px;
-    background-color: red;
     display: flex;
-    justify-content:space-evenly;
+ margin-left: 100px;
    
   }
   .box2{
     height:150px;
-
-    background-color: blue;
+    display: flex;
+    justify-content:space-evenly;
   }
   .box3{
     height:150px;
-    
-    background-color: green;
+    display: flex;
+    justify-content:space-evenly;
   }
   .box4{
-    height:150px;
-    
-    background-color:violet;
+    height:110px;
+    display: flex;
+    justify-content:space-evenly;
   }
   .box li {
   margin-bottom: 5px;
@@ -941,4 +940,14 @@ color:white;
   }
   .box li:hover{
     text-decoration: underline;
+  }
+  .number{
+    height: 100px;
+    padding-left: 400px;
+    padding-top: 10px;
+    
+  }
+  .num{
+    color:white;
+    padding-left: 200px;
   }
