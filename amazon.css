@@ -907,6 +907,38 @@ color:white;
     border-radius: 10px;
   }
   .lastfooter{
-    height:500px;
+    height:600px;
     background-color: black;
+  }
+  .box1{
+    height:150px;
+    background-color: red;
+    display: flex;
+    justify-content:space-evenly;
+   
+  }
+  .box2{
+    height:150px;
+
+    background-color: blue;
+  }
+  .box3{
+    height:150px;
+    
+    background-color: green;
+  }
+  .box4{
+    height:150px;
+    
+    background-color:violet;
+  }
+  .box li {
+  margin-bottom: 5px;
+    list-style-type: none;
+  }
+  .box{
+    margin-top: 15px;
+  }
+  .box li:hover{
+    text-decoration: underline;
   }
