@@ -913,7 +913,7 @@ color:white;
   .box1{
     height:150px;
     display: flex;
- margin-left: 100px;
+ 
    
   }
   .box2{
@@ -939,7 +939,7 @@ color:white;
     margin-top: 15px;
   }
   .box li:hover{
-    text-decoration: underline;
+    text-decoration:1.5px solid red underline;
   }
   .number{
     height: 100px;
@@ -950,4 +950,42 @@ color:white;
   .num{
     color:white;
     padding-left: 200px;
+  }
+  .boxone{
+    margin-left:50px;
+  }
+  .b1{
+    height:150px;
+    width:100px;
+    margin-left: 250px;
+  }
+  .b2{
+    height:150px;
+    width:100px;
+    margin-left: 30px;
+  }
+  .b3{
+    height:150px;
+    width:100px;
+    margin-left: 30px;
+  }
+  .b4{
+    height:150px;
+    width:100px;
+    margin-left: 30px;
+  }
+  .b5{
+    height:150px;
+    width:100px;
+    margin-left: 30px;
+  }
+  .b6{
+    height:150px;
+    width:100px;
+    margin-left: 30px;
+  }
+  .b7{
+    height:150px;
+    width:100px;
+    margin-left: 30px;
   }
